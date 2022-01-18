@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+- Dancing 💃
+  - Latin Dancing (teacher & judge certificate)
+  - Urban, Choreo, Jazz, ...
+- Music 🎵
+  - Piano 🎹
+  - Guitar 🎸
+- Sports ⛹️‍♀️
+  - Basketball 🏀
+  - Badminton 🏸
+  - Running 🏃‍♀️
