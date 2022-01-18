@@ -1,0 +1,10 @@
+- Dancing 💃
+  - Latin Dancing (teacher & judge certificate)
+  - Urban, Choreo, Jazz, ...
+- Music 🎵
+  - Piano 🎹
+  - Guitar 🎸
+- Sports ⛹️‍♀️
+  - Basketball 🏀
+  - Badminton 🏸
+  - Running 🏃‍♀️
